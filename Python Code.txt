@@ -1,6 +1,3 @@
-
-##code in pyhton
-
 #KBC TYPE GAME USING PYTHON
 #Aditya Doijad
 questions=["1.What is the capital of France?",
